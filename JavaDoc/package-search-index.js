@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"com.example.java_pong","l":"com.example.java_pong"},{"m":"com.example.java_pong","l":"com.example.java_pong.controller"},{"m":"com.example.java_pong","l":"com.example.java_pong.model"},{"m":"com.example.java_pong","l":"com.example.java_pong.view"}];updateSearchResults();

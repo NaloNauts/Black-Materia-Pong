@@ -1,0 +1,5 @@
+module:com.example.java_pong
+com.example.java_pong
+com.example.java_pong.controller
+com.example.java_pong.model
+com.example.java_pong.view
